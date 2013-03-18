@@ -1,8 +1,0 @@
-*.swp
-*.suo
-obj
-bin
-create-plgx.bat
-/#portable/
-*.cer
-*.pvk
